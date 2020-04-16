@@ -1,0 +1,10 @@
+{
+    "name": "Django Proxy",
+    "description": "Dead simple Django proxy for making API requests",
+    "repository": "https://github.com/sviperm/django-proxy",
+    "keywords": [
+        "python",
+        "django",
+        "proxy"
+    ]
+}
